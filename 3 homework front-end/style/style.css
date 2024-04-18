@@ -1,0 +1,28 @@
+.list1{
+    border: 2px solid rgb(203, 121, 121);
+    background-color: rgb(221, 191, 198);
+    width: 300px;
+    
+    
+}
+
+
+
+.table1{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.table1 th, .table1 td{
+    border: 1px solid black;
+}
+
+.img1{
+    width: 40px;
+    height: auto;
+}
+
+.img2{
+    width: 40px;
+    height: auto;
+}
